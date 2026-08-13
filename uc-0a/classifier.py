@@ -24,7 +24,7 @@ CATEGORY_KEYWORDS = {
     "Noise": ["noise", "loud", "music", "horn", "honking"],
     "Road Damage": ["road damage", "cracked road", "broken road", "road crack", "pavement"],
     "Heritage Damage": ["heritage", "monument", "old building", "historic"],
-    "Heat Hazard": ["heat", "sunstroke", "heatstroke", "extreme temperature"],
+    "Heat Hazard": ["heat", "sunstroke", "heatstroke", "extreme temperature", "melting", "melted", "°c", "degrees", "dangerous temperature", "too hot"],
     "Drain Blockage": ["drain", "sewage", "blocked drain", "clogged", "overflow"],
 }
 
